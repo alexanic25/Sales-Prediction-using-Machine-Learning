@@ -9,9 +9,9 @@
 
 ![](https://github.com/alexanic25/Sales-Prediction-using-Machine-Learning/blob/main/sales.gif)
 
-## Buit with
+## Built with 
 
 Python, Streamlit
 
-Pandas, Numpy, Matplotlib, Seaborn, Sckit Learn, Meteostat, Holidays,Plotly
+Pandas, Numpy, Matplotlib, Seaborn, Sckit Learn, Meteostat, Holidays, Plotly
 
